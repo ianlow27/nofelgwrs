@@ -1,0 +1,14 @@
+{
+    "name": "ianl28/nofelgwrs",
+    "description": "Y mae 'r hyn yn ap neu gymhwysiad (sef taflun nid llyfrgell) i greu cwrs iaith Gymraeg trwy'r ysgrifennu nofel lle mae 'r geirfa o 'r dysgwyr yn cynnyddu trwy 'r pennodau.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Low",
+            "email": "ianlow28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
